@@ -1,0 +1,10 @@
+How does LLMs work? 
+- Text Generation process
+   -- Supervised Learning
+      - Get Labeled data ---> Train the AI model ----> Predict the next word
+   - A language model is built using supervised learning to repeatedly predict the next word (token)
+- Two major types of LLM
+  - Base LLM
+    Predicts next word, based on text training data
+    
+  - Instruction Tuned LLM
